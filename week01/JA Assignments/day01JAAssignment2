@@ -1,4 +1,5 @@
-//Find the largest number from given three numbers
+// Week01 day01 JA Assignment 2
+// Find the largest number from given three numbers
 
 function largestNum(num1,num2,num3){
         if(num1>num2 && num1>num3){
@@ -15,5 +16,3 @@ function largestNum(num1,num2,num3){
     }   
 
     largestNum(10,20,30);
-
-
