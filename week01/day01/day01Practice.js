@@ -1,4 +1,5 @@
 //week01 day01 Breakout session test
+// Print a variable and its datatype declared with var keyword
 
 var firstName="Manik";
 var companyName="Amazon";
@@ -11,6 +12,7 @@ console.log("Company Name is: " + companyName + " and datatype is: " + typeof co
 console.log("Mobile Number is: " + mobileNumber + " and datatype is: " + typeof mobileNumber);
 console.log("Automation Enrolled: " + isAutomation + " and datatype is: " + typeof isAutomation);
 console.log("Installed Playwright: " + hasPlayWright + " and datatype is: " + typeof hasPlayWright);
+
 
 
 
