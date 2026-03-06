@@ -1,3 +1,5 @@
+////week 01 day 02 home assignment 2
+
 function launchBrowser(browser) {
     if (browser === "chrome") {
         console.log("Launching Chrome browser...");
@@ -36,4 +38,5 @@ launchBrowser("Opera");
 runTests("smoke");
 runTests("sanity");
 runTests("regression");
+
 runTests("UAT");
