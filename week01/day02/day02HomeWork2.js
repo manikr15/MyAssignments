@@ -1,4 +1,5 @@
-////week 01 day 02 home assignment 2
+// week 01 day 02 home assignment 2
+// Create and call two JavaScript functions: `launchBrowser` with `if-else` for browser launch messages, and`runTests` with `switch` for test type message
 
 function launchBrowser(browser) {
     if (browser === "chrome") {
@@ -38,5 +39,5 @@ launchBrowser("Opera");
 runTests("smoke");
 runTests("sanity");
 runTests("regression");
-
 runTests("UAT");
+
