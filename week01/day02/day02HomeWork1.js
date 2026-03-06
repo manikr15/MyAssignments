@@ -13,6 +13,6 @@ if(number>0){
 
 numType(5);
 numType(-3);
-
 numType(0);
+
 
