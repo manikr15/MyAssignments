@@ -1,3 +1,4 @@
+// Week01 day01 JA Assignment 1
 // Print first 20 number which are not divisible by 5
 
 function printNum(){
@@ -8,5 +9,5 @@ for(let i=1; i<=20; i++){
 }
 }
 
-
 printNum();
+
