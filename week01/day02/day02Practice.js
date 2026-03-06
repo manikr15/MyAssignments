@@ -1,4 +1,5 @@
 // week01 day 02 breakout session test
+// Print odd numbers between 1 to 20
 
 for(let i =1;i <=20;i++)
 {
@@ -33,3 +34,4 @@ do
     
 
 */
+
