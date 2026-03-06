@@ -1,3 +1,4 @@
+// week01 day01 homework assignment
 
 let firstName="Manik";
 let companyName="Amazon";
@@ -10,5 +11,6 @@ console.log("Company Name is: " + companyName + " and datatype is: " + typeof co
 console.log("Mobile Number is: " + mobileNumber + " and datatype is: " + typeof mobileNumber);
 console.log("Automation Enrolled: " + isAutomation + " and datatype is: " + typeof isAutomation);
 console.log("Installed Playwright: " + hasPlayWright + " and datatype is: " + typeof hasPlayWright);
+
 
 
