@@ -1,3 +1,4 @@
+// week01 day 02 breakout session test
 
 for(let i =1;i <=20;i++)
 {
@@ -30,4 +31,5 @@ do
     i++;
 }while(i<=20) 
     
+
 */
