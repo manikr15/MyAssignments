@@ -1,3 +1,5 @@
+//week 01 day 02 home assignment 1
+
 function numType(number) {
 if(number>0){
     console.log("The number is positive");
@@ -10,4 +12,5 @@ if(number>0){
 
 numType(5);
 numType(-3);
+
 numType(0);
